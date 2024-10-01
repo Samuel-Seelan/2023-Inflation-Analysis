@@ -1,17 +1,17 @@
 # Data Analysis Project on the Impact of Inflation On Consumers
 
 
-ConsumerInflationAnalysis.py -
+## ConsumerInflationAnalysis.py -
 
 This file contains the code responsible for loading, processing, and analyzing income and CPI data to study the relationship
 between cumulative CPI changes and AGI changes using various regression techniques.
 
-CPALTT01USM657N.csv - 
+## CPALTT01USM657N.csv - 
 
 This is the CPI data used for this analysis
 
 
-The Yearly Income Data Files -
+## The Yearly Income Data Files -
 
 This is the income data files organized by year used for this analysis
 
